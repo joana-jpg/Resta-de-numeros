@@ -1,0 +1,8 @@
+Proceso Resta_De_Dos_Numeros
+	Escribir "Escribe Un Número";
+	Leer n1;
+	Escribir "Escribe Un Número";
+	Leer n2;
+	resta<-n1-n2;
+	Escribir "La resta es:",resta;
+FinProceso
